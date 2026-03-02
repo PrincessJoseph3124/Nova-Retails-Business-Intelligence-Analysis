@@ -66,7 +66,7 @@ Metrics Tracked: Revenue, Sales Volume, Units Sold, Pricing, Discounts, Inventor
 
 **Tools Used**
 
-Power BI / Tableau (Dashboard Development)
+Power BI (Dashboard Development)
 
 Excel / Power Query (Data Cleaning & Structuring)
 
